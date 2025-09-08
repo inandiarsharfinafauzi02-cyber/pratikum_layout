@@ -1,5 +1,5 @@
-## 1.Selesaikan Praktikum 1 sampai 4, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md!
-# 1: Membangun Layout di Flutter
+# 1.Selesaikan Praktikum 1 sampai 4, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md!
+## 1: Membangun Layout di Flutter
 KODE
 <img width="1450" height="2428" alt="image" src="https://github.com/user-attachments/assets/f2778fc4-5766-4dfd-ac3a-96f350f288ff" />
 hasilnyaa
@@ -19,7 +19,7 @@ Fungsi Inti: Mendefinisikan kerangka dasar aplikasi. Ini adalah widget utama yan
 -Fungsi Inti: Membuat tiga tombol aksi (CALL, ROUTE, SHARE) yang tersusun secara horizontal.
 -Row: Mengatur tombol-tombol dalam satu baris.
 -_buildButtonColumn: Fungsi pembantu untuk membuat kolom ikon dan teks untuk setiap tombol, memastikan tampilannya konsisten.
-# 2: Implementasi button row
+## 2: Implementasi button row
 kode
 <img width="1636" height="2390" alt="image" src="https://github.com/user-attachments/assets/824e83cc-e3ec-487e-8504-2250c4596e7d" />
 hasil
@@ -30,7 +30,7 @@ penjelasan:
 -buttonSection (tiga tombol: CALL, ROUTE, SHARE)
 -Menggunakan Column agar widget ditampilkan secara vertikal.
 .
-# 3: Implementasi text section
+## 3: Implementasi text section
 kode
 <img width="2048" height="900" alt="image" src="https://github.com/user-attachments/assets/cac5af78-99f1-490d-a35f-7ed2e4f6cf56" />
 hasil 
@@ -42,7 +42,7 @@ Widget textSection
 -titleSection (judul dan rating)
 -buttonSection (tiga tombol: CALL, ROUTE, SHARE)
 -textSection (deskripsi)
-# 4: Implementasi image section
+## 4: Implementasi image section
 kode
 <img width="2048" height="4700" alt="image" src="https://github.com/user-attachments/assets/928db926-344b-42c9-b60d-e9d181b9123e" />
 hasil
