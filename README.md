@@ -44,9 +44,10 @@ Widget textSection
 -textSection (deskripsi)
 ## 4: Implementasi image section
 kode
-<img width="2048" height="4700" alt="image" src="https://github.com/user-attachments/assets/928db926-344b-42c9-b60d-e9d181b9123e" />
-hasil
 <img width="2048" height="2540" alt="image" src="https://github.com/user-attachments/assets/6c291e50-a5db-474e-819f-a4d145ee0934" />
+hasil
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ddfd572f-9a88-4cf1-8378-8b9c18c667de" />
+
 
 
 
