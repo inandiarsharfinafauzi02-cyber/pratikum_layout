@@ -46,7 +46,8 @@ Widget textSection
 kode
 <img width="2048" height="2540" alt="image" src="https://github.com/user-attachments/assets/6c291e50-a5db-474e-819f-a4d145ee0934" />
 hasil
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ddfd572f-9a88-4cf1-8378-8b9c18c667de" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/659084b4-f16e-49b1-b481-aad51581e90a" />
+
 
 
 
